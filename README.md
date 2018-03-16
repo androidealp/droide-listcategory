@@ -1,6 +1,8 @@
 # droide-listcategory
 This is a wordpress plugin, which enables category listing through the menu.
 
+![Exemplo](exemplo.gif)
+
 ## installation instructions
 
 After installing this plugin create a folder within the current theme:
