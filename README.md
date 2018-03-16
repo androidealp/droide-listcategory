@@ -11,7 +11,7 @@ themes/current-theme/droide_categories_pages/layout_list.php
 
 ## Releases
 
-In this version 1.0, the plugin restricts the term of the url "categories" to generate the customized layout.
+In this version 1.0, the plugin restricts the term of the url "categorias" to generate the customized layout.
 
 ## Upcoming Updates
 
